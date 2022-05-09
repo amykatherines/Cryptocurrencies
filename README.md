@@ -7,3 +7,5 @@ Several unsupervised machine learning algorithms are used to evaluate crypto cur
 3.  Reduce Data Dimensions Using PCA
 4.  Cluster Cryptocurrencies Using K-means
 5.  Visualize Cryptocurrency Results
+
+Please note, the graphs did not upload from the ones generated in Jupyter Notebook. The file will need to be run to view the graphs.
